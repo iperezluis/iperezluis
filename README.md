@@ -8,7 +8,7 @@
 
 I'm an avid dedicated Software Engineer, Developer Advocate, and learning Smart Contract/Blockchain.
 
-I'm here to help the world learn to code, do great things with data prowess, javascript lover, gym enthusiast, and life enthusiast.
+I'm here to help the world learn to code, do great things with data prowess, javascript lover, Camp Monitor, gym enthusiast, and life enthusiast.
 
 
 
