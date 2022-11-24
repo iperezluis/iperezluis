@@ -27,5 +27,6 @@ I'm here to help the world learn to code, do great things with data prowess, jav
 #### Github Stats 📊
 
 [![Luis Perez's github stats](https://github-readme-stats.vercel.app/api?username=iperezluis)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=IPEREZLUIS&theme=dark&hide_border=false)<br/>
 
 ### Stack Overflow & Stack Exchange Stats
