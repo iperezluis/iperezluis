@@ -13,6 +13,7 @@
 
 - [How to Build a Simple and Interactive Bar Chart With React.js and CSS-in-JS](https://medium.com/@perezvluisv/how-to-build-a-simple-and-interactive-bar-chart-with-react-js-and-css-in-js-fdd44e7764c5) 
 - [Why do you need to learn to code?](https://medium.com/@perezvluisv/why-do-you-need-to-learn-to-code-391ab1d64a57) 
+- [How important are design patterns in software development?](https://medium.com/@perezvluisv/how-important-are-design-patterns-in-software-development-de77f13861a5) 
 
 
 
