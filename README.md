@@ -11,7 +11,7 @@
 
 <h3>Recent Articles</h3>
 
-- [How to Build a Simple and Interactive Bar Chart With React.js and CSS-in-JS]([https://medium.com/swlh/how-to-build-a-simple-and-interactive-bar-chart-with-react-js-and-css-in-js-6d48f0924d25](https://medium.com/@perezvluisv/how-to-build-a-simple-and-interactive-bar-chart-with-react-js-and-css-in-js-fdd44e7764c5)) 
+- [How to Build a Simple and Interactive Bar Chart With React.js and CSS-in-JS](https://medium.com/swlh/how-to-build-a-simple-and-interactive-bar-chart-with-react-js-and-css-in-js-6d48f0924d25) 
 
 
 
