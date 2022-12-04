@@ -1,4 +1,5 @@
-<h2> Hi there 👋, I'm Luis Perez! </h2>
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCfB96GB88tNsYSODNjEkv0w)
