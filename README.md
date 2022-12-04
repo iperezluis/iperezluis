@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Hi! I'm Luis Perez:
+🔭 I'm an avid dedicated Software Engineer, Developer Advocate, and currently learning Smart Contract/Blockchain.
+👯 I'm here to help the world learn to code, do great things with data prowess, javascript lover, Camp Monitor, ⚡ gym enthusiast, and life enthusiast.
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCfB96GB88tNsYSODNjEkv0w)
@@ -17,14 +18,6 @@
 - [Why do you need to learn to code?](https://medium.com/@perezvluisv/why-do-you-need-to-learn-to-code-391ab1d64a57)
 - [How to Build a Simple and Interactive Bar Chart With React.js and CSS-in-JS](https://medium.com/@perezvluisv/how-to-build-a-simple-and-interactive-bar-chart-with-react-js-and-css-in-js-fdd44e7764c5)  
 - [How important are design patterns in software development?](https://medium.com/@perezvluisv/how-important-are-design-patterns-in-software-development-de77f13861a5) 
-
-
-
-
-I'm an avid dedicated Software Engineer, Developer Advocate, and learning Smart Contract/Blockchain.
-
-I'm here to help the world learn to code, do great things with data prowess, javascript lover, Camp Monitor, gym enthusiast, and life enthusiast.
-
 
 
 #### Github Stats 📊
