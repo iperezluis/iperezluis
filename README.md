@@ -1,5 +1,5 @@
 # Hi! I'm Luis Perez 👋
-- 🔭 I'm an avid dedicated Software Engineer, Developer Advocate, and currently learning Python.
+- 🔭 I'm an avid dedicated Software Engineer, Developer Advocate, Solutions Arquitect and currently learning.
 - 👯 I'm here to help the world learn to code, do great things with data prowess, javascript lover.
 - ⚡ Camp Monitor, gym enthusiast, and life enthusiast.
 
