@@ -4,7 +4,7 @@
 - ⚡ Camp Monitor, gym enthusiast, and life enthusiast.
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@perezluisv)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@iperezluis)
 [![Luis Perez Linkedin](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perezluisv/)
 [![Luis Perez Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/perezluisv)
 [![Luis Perez StackOverflow](https://img.shields.io/badge/StackOverflow-F48024.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19291084/luis-perez)
